@@ -98,7 +98,7 @@ body {
 
 .hero {
   height:320px;
-  background-image:url(../bahan/malaria.png);
+  background-image:url(malaria.png);
   background-size:cover;
   background-position:0px -180px;
   border-top:5px solid LightBlue;
